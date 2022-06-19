@@ -63,3 +63,11 @@ term
 # Math
 
 For example, $x_{hey}=it+is^{math}$ renders
+
+# Math with references
+
+$$
+e = mc^2
+$$ (eqn:best)
+
+This is the best equation {eq}`eqn:best`
