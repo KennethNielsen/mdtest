@@ -1,0 +1,6 @@
+
+MyModule
+========
+
+.. automodule:: mymodule
+   :members:
